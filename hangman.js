@@ -1,4 +1,4 @@
-var answer = "Fundamentals of JavaScript";
+var answer = "Ja znam te twoje godziny";
 answer = answer.toUpperCase();
 
 var long = answer.length;
