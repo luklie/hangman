@@ -1,4 +1,4 @@
-var answer = "Ja znam te twoje godziny";
+var answer = "Password";
 answer = answer.toUpperCase();
 
 var long = answer.length;
